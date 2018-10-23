@@ -1,0 +1,12 @@
+{
+	"parser": "babel-eslint",
+
+	"extends": ["airbnb", "prettier", "prettier/standard"],
+
+	"plugins": ["prettier"],
+
+	"env": {
+		"node": true,
+		"mocha": true
+	}
+}
