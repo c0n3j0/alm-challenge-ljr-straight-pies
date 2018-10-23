@@ -1,6 +1,6 @@
 {
-	"name": "alm-challenge-ljr-straight-pies",
-	"version": "0.0.3",
+	"name": "straight-pies",
+	"version": "0.0.1",
 	"description": "",
 	"main": "dist/index.js",
 	"scripts": {
