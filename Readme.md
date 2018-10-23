@@ -11,7 +11,7 @@ Este modulo obtiene el valor del contador en un instante t
 ## Uso
 
 ```javacript
-const counterFactory = require('alm-challenge-lgr-straight-pies')
+const counterFactory = require('alm-challenge-ljr-straight-pies')
 
 const initialFactory = 3
 const counter = counterFactory(initialValue)
