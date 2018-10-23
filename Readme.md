@@ -11,12 +11,12 @@ Este modulo obtiene el valor del contador en un instante t
 ## Uso
 
 ```javacript
-const counterFactory = require('alm-challenge-ljr-straight-pies')
+const counterFactory = require("alm-challenge-ljr-straight-pies");
 
-const initialFactory = 3
-const counter = counterFactory(initialValue)
+const initialValue = 3;
+const counter = counterFactory(initialValue);
 
-const value = counter(10)
+const value = counter(1);
 
-console.log("COUTER", value)
+console.log("COUTER", value);
 ```
